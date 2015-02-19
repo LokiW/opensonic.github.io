@@ -9,11 +9,20 @@
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Publications
+  url: /publications/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: FAQ
+  url: /faq/
+
+- title: Tutorial
+  url: /tutorial/
+
+- title: User's Guide
+  url: /user-guide/
+
+- title: People
+  url: /people/
 
 - title: Search
   url: /search/

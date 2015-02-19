@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Software Defined Network Interface Card
 locale: en_US
-description: Describe your website here.
+description: Control and monitor your network at nanosecond scale
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://localhost:4001
 
 # Jekyll configuration
 
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: SoNIC Research Group
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: hweather@cs.cornell.edu
   disqus-shortname:
   twitter: #username
   facebook: #username

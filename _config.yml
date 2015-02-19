@@ -5,7 +5,7 @@ locale: en_US
 description: Control and monitor your network at nanosecond scale
 logo: site-logo.png
 search: true
-url: http://localhost:4001
+url: http://opensonic.github.io
 
 # Jekyll configuration
 
